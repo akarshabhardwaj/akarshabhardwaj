@@ -1,6 +1,6 @@
 # Hi there, I'm Akarsha Bhardwaj 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/YshBnkar1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Akarsha2002)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Akarsha2002?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Akarsha2002)
 
 ## I'm a Full Stack Web Developer, UI Designer, and Student!
 

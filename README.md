@@ -1,20 +1,20 @@
 # Hi there, I'm Akarsha Bhardwaj 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/YshBnkar1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/YshBnkar1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YshBnkar1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Akarsha2002)
 
 ## I'm a Full Stack Web Developer, UI Designer, and Student!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other Expert Developers
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web
 - ⚡ Fun fact: I love to Travel and Cook food
-- 😻 Check out my PortFolio: [Portfolio](https://yashbank.github.io/)
+- 😻 Check out my PortFolio: [Portfolio](https://akarshabhardwaj.github.io/)
 
 ### Connect with me:
 
-[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQInRC8KIcHOcCIVlSdrRuVIaoa6w4UyPPFX9nSVVrBbg&s)](https://twitter.com/YshBnkar1)
-[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4agyICe43CkiIUMGzBJzwl43cT30Eucp2c3yE3TpSQ&s)](https://www.linkedin.com/in/yash-bankar-9249531aa/)
-[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDO0Sb6V0D7ME7aqA4_Ldu0CIU5L8XIHzP7nqaXqOJA&s)](https://www.instagram.com/yashbank/)
+[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQInRC8KIcHOcCIVlSdrRuVIaoa6w4UyPPFX9nSVVrBbg&s)](https://twitter.com/Akarsha2002)
+[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4agyICe43CkiIUMGzBJzwl43cT30Eucp2c3yE3TpSQ&s)](https://www.linkedin.com/in/akarsha-bhardwaj-7535a9244/)
+[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDO0Sb6V0D7ME7aqA4_Ldu0CIU5L8XIHzP7nqaXqOJA&s)](https://www.instagram.com/akarsha_bhardwaj/)
 
 ### Languages and Tools:
 

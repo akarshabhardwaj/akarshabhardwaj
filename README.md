@@ -1,16 +1,16 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://yashbank.github.io/"> Yash Bankar 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://akarshabhardwaj.github.io/"> Akarsha Bhardwaj 💻</a>!
 </h2>
 
-Hello stranger! my name is Yash Bankar and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
+Hello stranger! my name is Akarsha Bhardwaj and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbank&label=Profile%20views&color=0e75b6&style=flat" alt="yashbank" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshabhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="akarshabhardwaj" /> </p>
 
    <p align="center" color:"red">
-     <a href="https://github.com/yashbank/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Yash Bankar 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+     <a href="https://github.com/akarshabhardwaj/readme-typing-svg">
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Akarsha Bhardwaj 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -21,13 +21,13 @@ Hello stranger! my name is Yash Bankar and I am a Full Stack Developer, passiona
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📫 Reach me on **yashbank2002@gmail.com**
+- 📫 Reach me on **akarshabhardwaj7280976503@gmail.com**
 
 - 💬 ask me about anything, i am happy to help
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio](https://yashbank.github.io/)
+- 💬 Have a look at my [Portfolio](https://akarshabhardwaj.github.io/)
 
 <h2>🥇 Skills:  </h2>  
 <p >

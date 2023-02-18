@@ -17,9 +17,11 @@ Hello stranger! my name is Akarsha Bhardwaj and I am a Full Stack Developer, pas
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
+-    Checkout my **[Resume](https://drive.google.com/file/d/1I0TZVDrapOw26EuGh7RUifY37bUVvLju/view?usp=share_link)**
+
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/akarsha-bhardwaj-7535a9244/) & [GitHub](https://github.com/akarshabhardwaj)**
 
 - 📫 Reach me on **akarshabhardwaj7280976503@gmail.com**
 

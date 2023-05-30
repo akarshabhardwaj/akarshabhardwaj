@@ -48,20 +48,8 @@ Hello stranger! my name is Akarsha Bhardwaj and I am a Full Stack Developer, pas
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
   
 </p>
-      
-      <br/>
-       <br/>
-      <br/>
-      <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
-      
-      <br />
-      <br />
-<br/>
-
-<div align="center">
-        <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
- 
-</div>
+     
+<br>
 
 ## 📊 My Github Stats
 
